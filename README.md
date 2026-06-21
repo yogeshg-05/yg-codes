@@ -2,6 +2,6 @@
 
 My coding playground for practice, programming challenges, experiments, and skill development.
 
-🚀 Learning, Building, and Exploring.
+🚀 Learning, Building, and Exploring...
 
 💻 Code • Learn • Improve • Repeat...
