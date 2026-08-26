@@ -1,7 +1,19 @@
-# YG-Codes
+# 💻 YG-Codes
 
-My coding playground for practice, programming challenges, experiments, and skill development.
+> **A coding playground for learning, problem-solving, and continuous improvement.**
 
-🚀 Learning, Building, and Exploring...
+A collection of my **coding practice, programming challenges, experiments, and learning projects**.
 
-💻 Code • Learn • Improve • Repeat...
+### 🚀 What You'll Find
+
+* 🧩 Data Structures & Algorithms
+* 💡 Problem-Solving & Coding Challenges
+* 🛠️ Programming Experiments
+* 📚 Learning Projects
+* 📈 Continuous Skill Development
+
+### 🎯 Goal
+
+**Code → Learn → Build → Improve → Repeat**
+
+> 🚀 *Learning by building, one problem at a time.*
